@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Generated Images
+*.png
+*.jpg
+*.jpeg
+
+# IDE / Editor specific
+.vscode/
+.idea/
