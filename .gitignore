@@ -11,6 +11,7 @@ venv/
 *.png
 *.jpg
 *.jpeg
+realistic_sunset.png
 
 # IDE / Editor specific
 .vscode/
