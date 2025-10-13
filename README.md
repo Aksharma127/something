@@ -1,4 +1,4 @@
-# Procedural Landscape Generator
+# programming a real image without integrating image 😂😂.
 
 This Python script generates beautiful, stylized mountain landscapes at sunset using procedural generation techniques like Perlin noise.
 
